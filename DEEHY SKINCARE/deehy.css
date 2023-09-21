@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    margin: auto;
+    width: 1400px;
+    padding: 50px;
+
+}
+
+img {
+    padding: 10px;
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:pink;
+    text-align: center;
+}
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: pink;
+}
+ a[href^="tel:"] {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:pink;
+    text-align: center;
+}a[href^="https:"] {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: pink;
+}
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:pink;
+    text-align: center;
+}
