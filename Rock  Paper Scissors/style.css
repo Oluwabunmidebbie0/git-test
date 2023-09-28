@@ -1,0 +1,11 @@
+    body {
+    background-color: var(--primary-dark);
+    color: var(--primary-light);
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    background: url(./UHJC1173.JPG);
+    background-size: cover; 
+    color: aliceblue;
+  }
+  
+ 
